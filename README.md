@@ -1,4 +1,11 @@
 ### Hi there 👋
+### My name is Arina Gavrilova :raising_hand: 
+I'm data analyst⚡
+Like to visualize, like to create clear graphics and presentations
+See the physical meaning behind the numbers
+
+Tools:
+Python, Pandas, SQL, Matplotlib, Tableau, A/B-tests
 
 <!--
 **Arinich/Arinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
