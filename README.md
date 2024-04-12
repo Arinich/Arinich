@@ -6,7 +6,7 @@ Like to visualize, like to create clear graphics and presentations
 
 See the physical meaning behind the numbers
 
-# Tools:
+### Tools:
 
 Python, Pandas, SQL, Matplotlib, Tableau, A/B-tests
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Portfolio
+### Portfolio
 Здесь собраны некоторые реализованные проекты
 
 | Название проекта  | Описание        | Стек          |
