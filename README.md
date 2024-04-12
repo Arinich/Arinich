@@ -1,10 +1,13 @@
 ### Hi there 👋
 ### My name is Arina Gavrilova :raising_hand: 
 I'm data analyst⚡
+
 Like to visualize, like to create clear graphics and presentations
+
 See the physical meaning behind the numbers
 
-Tools:
+# Tools:
+
 Python, Pandas, SQL, Matplotlib, Tableau, A/B-tests
 
 <!--
